@@ -18,6 +18,8 @@ W zależności od systemu w **terminalu** lub w programie **Git Bash** wykonaj:
 	2. `git config --global user.email "EMAIL"` w miejscu EMAIL wpisz adres email, powiązany z twoim kontem GitHub
 	3. `git config --list` (opcjonalnie) sprawdź czy podane wcześnij dane są prawidłowe
 
+Oczywiście na Windowsie można wszystko zrobić z CMD, ale ja z racji że jestem przyzwyczjony do poleceń Linux, preferuje Git Bash
+
 ---
 ---
 # 2. Klonowanie repozytorium
