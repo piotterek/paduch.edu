@@ -1,7 +1,6 @@
 # 🗂️ Zbiór Technicznych Notatek
 
-W tym repozytorium trzymam swoje notatki dotyczące różnych projektów, konfiguracji, eksperymentów i rozwiązań, które ogarniam na co dzień.  
-Piszę je głównie **dla siebie**, żeby móc szybko wrócić do kroków instalacji, komend, konfiguracji albo schematów — ale jeśli komuś to pomoże, to super.
+W tym repozytorium trzymam swoje notatki dotyczące różnych projektów, konfiguracji, eksperymentów i rozwiązań, które ogarniam na co dzień. Piszę je głównie **dla siebie**, żeby móc szybko wrócić do kroków instalacji, komend, konfiguracji albo schematów — ale jeśli komuś to pomoże, to super.
 
 ---
 
@@ -19,9 +18,7 @@ Treści mogą być czasem chaotyczne, surowe albo pisane na szybko — ale zawsz
 
 ## ⚠️ Ważne zastrzeżenie
 
-Notatki opisują to, co działało **u mnie**, w moim środowisku i konfiguracji.  
-Jeśli ktoś wykorzysta je u siebie i coś *padnie, skasuje się, rozjedzie albo wybuchnie*, to:  
-**nie biorę odpowiedzialności za skutki** — korzystasz na własne ryzyko.
+Notatki opisują to, co działało **u mnie**, w moim środowisku i konfiguracji. Jeśli ktoś wykorzysta je u siebie i coś *padnie, skasuje się, rozjedzie albo wybuchnie*, to **nie biorę odpowiedzialności za skutki** — korzystasz na własne ryzyko.
 
 ---
 
